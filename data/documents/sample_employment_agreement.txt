@@ -1,0 +1,57 @@
+EMPLOYMENT AND NON-DISCLOSURE AGREEMENT
+
+This Employment Agreement ("Agreement") is entered into on 15th January 2024 ("Effective Date") at Bengaluru, Karnataka, by and between:
+
+TECHNOVA SOLUTIONS PRIVATE LIMITED, a company incorporated under the Companies Act, 2013, having its registered office at Prestige Tech Park, Marathahalli-Sarjapur Ring Road, Bengaluru, Karnataka 560103, represented by its Director, Mr. Rajesh Sharma (hereinafter referred to as the "Company" or "Employer", which expression shall include its successors and assigns);
+
+AND
+
+MR. ARJUN MENON, son of Mr. K. Raghavan, residing at Flat 402, Shanti Niketan Apartments, Indiranagar, Bengaluru, Karnataka 560038 (hereinafter referred to as the "Employee", which expression shall include his legal heirs and representatives).
+
+WHEREAS the Company is engaged in developing proprietary artificial intelligence enterprise software;
+AND WHEREAS the Company desires to employ the Employee as "Lead AI Research Architect" and the Employee agrees to serve the Company on the terms and conditions hereinafter set forth.
+
+NOW, THEREFORE, THE PARTIES MUTUALLY AGREE AS FOLLOWS:
+
+1. APPOINTMENT AND SCOPE OF WORK
+1.1 The Company hereby appoints the Employee as Lead AI Research Architect, and the Employee agrees to devote his full business time, energy, and skill exclusively to the business of the Company.
+1.2 The Employee shall not, during the term of employment, engage directly or indirectly in any other business, profession, or commercial occupation without the prior written consent of the Company.
+
+2. REMUNERATION AND BENEFITS
+2.1 The Company shall pay the Employee an annual Cost to Company (CTC) of INR 36,00,000/- (Rupees Thirty-Six Lakhs only), payable monthly in arrears subject to statutory deductions (TDS, PF, Professional Tax).
+2.2 Discretionary performance bonus shall be determined solely at the management's discretion.
+
+3. CONFIDENTIALITY AND PROPRIETARY INFORMATION
+3.1 The Employee acknowledges that during employment, he will have access to Confidential Information, including source code, algorithmic models, client databases, and commercial trade secrets.
+3.2 The Employee shall not disclose or disseminate any Confidential Information to any third party during or after the termination of this Agreement without prior written consent, except as required by law.
+
+4. INTELLECTUAL PROPERTY ASSIGNMENT
+4.1 All inventions, software models, works of authorship, and patentable discoveries conceived or developed by the Employee during the course of employment shall be the sole and exclusive property of the Company as a "work made for hire".
+
+8. POST-TERMINATION NON-COMPETE RESTRICTION
+8.1 Upon the termination or cessation of this Agreement for any reason whatsoever (whether voluntary resignation or termination with or without cause), the Employee shall not, for a period of thirty-six (36) months from the date of cessation, directly or indirectly:
+    (a) Engage in, establish, consult for, or be employed by any entity, corporation, or startup engaged in enterprise AI software or competitive businesses across the entire territory of the Republic of India;
+    (b) Solicit, canvas, or entice away any customer, client, or business partner of the Company;
+    (c) Solicit or recruit any employee, contractor, or consultant of the Company.
+8.2 The Employee agrees that the restrictions in Clause 8.1 are reasonable in terms of geographic scope and duration to protect the legitimate trade secrets of the Company.
+
+11. LIQUIDATED DAMAGES AND FORFEITURE
+11.1 The Employee covenants to serve the Company for a minimum lock-in period of twenty-four (24) months from the Effective Date.
+11.2 In the event the Employee resigns, abandons service, or terminates employment prior to the expiry of the 24-month lock-in period, the Employee shall immediately pay the Company a fixed sum of INR 25,00,000/- (Rupees Twenty-Five Lakhs only) as agreed pre-estimated liquidated damages, and forfeits all accrued gratuity, bonus, and unpaid leave compensation, irrespective of whether the Company proves any actual financial damage or replacement recruitment loss.
+
+14. UNILATERAL INDEMNIFICATION
+14.1 The Employee shall defend, indemnify, and hold harmless the Company, its directors, officers, and investors from and against any and all claims, liabilities, losses, damages, fines, and legal expenses arising out of or resulting from any alleged performance lapse, system defect, code bug, or customer grievance associated with projects handled by the Employee.
+14.2 The Company shall have no corresponding obligation to indemnify the Employee against third-party suits arising from acts performed in good faith in the ordinary course of business.
+
+17. DISPUTE RESOLUTION AND JURISDICTION CONFLICT
+17.1 This Agreement shall be governed by and construed in accordance with the laws of India.
+17.2 The Courts at Bengaluru, Karnataka shall have exclusive jurisdiction over any dispute arising under this Agreement.
+17.3 Notwithstanding Clause 17.2, all disputes, claims, or differences arising out of this Agreement shall be referred to and finally resolved by binding arbitration seated in London, United Kingdom, administered by the London Court of International Arbitration (LCIA) under LCIA Arbitration Rules, conducted in the English language before a sole arbitrator appointed by the Company.
+
+IN WITNESS WHEREOF, the Parties have executed this Employment Agreement as of the Effective Date written above.
+
+For Technova Solutions Pvt. Ltd.:                  Employee:
+
+_________________________                         _________________________
+Mr. Rajesh Sharma                                  Mr. Arjun Menon
+Director                                           Lead AI Research Architect

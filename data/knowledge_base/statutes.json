@@ -1,0 +1,254 @@
+[
+  {
+    "act_id": "ICA_1872",
+    "act_title": "The Indian Contract Act, 1872",
+    "year": 1872,
+    "jurisdiction": "India",
+    "status": "In Force",
+    "sections": [
+      {
+        "section_number": "10",
+        "title": "What agreements are contracts",
+        "text": "All agreements are contracts if they are made by the free consent of parties competent to contract, for a lawful consideration and with a lawful object, and are not hereby expressly declared to be void.",
+        "keywords": ["contract validity", "free consent", "lawful consideration", "competence"]
+      },
+      {
+        "section_number": "23",
+        "title": "What considerations and objects are lawful, and what not",
+        "text": "The consideration or object of an agreement is lawful, unless it is forbidden by law; or is of such a nature that, if permitted, it would defeat the provisions of any law; or is fraudulent; or involves or implies injury to the person or property of another; or the Court regards it as immoral, or opposed to public policy. In each of these cases, the consideration or object of an agreement is said to be unlawful. Every agreement of which the object or consideration is unlawful is void.",
+        "keywords": ["unlawful consideration", "opposed to public policy", "void agreement", "fraudulent"]
+      },
+      {
+        "section_number": "27",
+        "title": "Agreement in restraint of trade, void",
+        "text": "Every agreement by which any one is restrained from exercising a lawful profession, trade or business of any kind, is to that extent void. Exception 1: Saving of agreement not to carry on business of which good-will is sold.",
+        "keywords": ["restraint of trade", "non-compete", "void covenant", "employment restriction", "post-employment"]
+      },
+      {
+        "section_number": "28",
+        "title": "Agreements in restraint of legal proceedings, void",
+        "text": "Every agreement, by which any party thereto is restricted absolutely from enforcing his rights under or in respect of any contract, by the usual legal proceedings in the ordinary tribunals, or which limits the time within which he may thus enforce his rights, is void to that extent.",
+        "keywords": ["restraint of legal proceedings", "limitation period", "jurisdiction clause", "ouster of court"]
+      },
+      {
+        "section_number": "56",
+        "title": "Agreement to do impossible act",
+        "text": "An agreement to do an act impossible in itself is void. Contract to do act afterwards becoming impossible or unlawful: A contract to do an act which, after the contract is made, becomes impossible, or, by reason of some event which the promisor could not prevent, unlawful, becomes void when the act becomes impossible or unlawful.",
+        "keywords": ["frustration of contract", "force majeure", "impossibility", "doctrine of frustration"]
+      },
+      {
+        "section_number": "73",
+        "title": "Compensation for loss or damage caused by breach of contract",
+        "text": "When a contract has been broken, the party who suffers by such breach is entitled to receive, from the party who has broken the contract, compensation for any loss or damage caused to him thereby, which naturally arose in the usual course of things from such breach, or which the parties knew, when they made the contract, to be likely to result from the breach of it. Such compensation is not to be given for any remote and indirect loss or damage sustained by reason of the breach.",
+        "keywords": ["breach of contract", "damages", "compensation", "consequential loss", "remoteness of damage"]
+      },
+      {
+        "section_number": "74",
+        "title": "Compensation for breach of contract where penalty stipulated for",
+        "text": "When a contract has been broken, if a sum is named in the contract as the amount to be paid in case of such breach, or if the contract contains any other stipulation by way of penalty, the party complaining of the breach is entitled, whether or not actual damage or loss is proved to have been caused thereby, to receive from the party who has broken the contract reasonable compensation not exceeding the amount so named or, as the case may be, the penalty stipulated for.",
+        "keywords": ["liquidated damages", "penalty clause", "reasonable compensation", "forfeiture"]
+      }
+    ]
+  },
+  {
+    "act_id": "BNS_2023",
+    "act_title": "Bharatiya Nyaya Sanhita, 2023 (Act No. 45 of 2023)",
+    "year": 2023,
+    "jurisdiction": "India",
+    "status": "In Force since 1 July 2024",
+    "effective_date": "2024-07-01",
+    "replaced_statute": "Indian Penal Code, 1860 (IPC)",
+    "sections": [
+      {
+        "section_number": "1",
+        "title": "Short title, commencement and application",
+        "text": "This Act may be called the Bharatiya Nyaya Sanhita, 2023. It shall come into force on the 1st day of July, 2024. It applies to offenses committed on or after the appointed date.",
+        "keywords": ["commencement", "application", "July 1 2024", "territorial jurisdiction"]
+      },
+      {
+        "section_number": "316",
+        "title": "Criminal breach of trust (Equivalent to IPC 405/406)",
+        "text": "Whoever, being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode in which such trust is to be discharged, commits criminal breach of trust.",
+        "keywords": ["criminal breach of trust", "misappropriation", "entrustment", "IPC 406 equivalent"]
+      },
+      {
+        "section_number": "318",
+        "title": "Cheating (Equivalent to IPC 415/420)",
+        "text": "Whoever, by deceiving any person, fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property, or intentionally induces the person so deceived to do or omit to do anything which he would not do or omit if he were not so deceived, commits cheating. Whoever cheats and thereby dishonestly induces the person deceived to deliver any property shall be punished with imprisonment up to seven years.",
+        "keywords": ["cheating", "fraudulent inducement", "dishonest inducement", "IPC 420 equivalent"]
+      },
+      {
+        "section_number": "336",
+        "title": "Forgery (Equivalent to IPC 463/465)",
+        "text": "Whoever makes any false document or false electronic record or part of a document with intent to cause damage or injury, to the public or to any person, or to support any claim or title, or to cause any person to part with property, or to enter into any express or implied contract, commits forgery.",
+        "keywords": ["forgery", "false document", "false electronic record", "IPC 465 equivalent"]
+      },
+      {
+        "section_number": "351",
+        "title": "Criminal intimidation (Equivalent to IPC 503/506)",
+        "text": "Whoever threatens another with any injury to his person, reputation or property, or to the person or reputation of any one in whom that person is interested, with intent to cause alarm to that person, commits criminal intimidation.",
+        "keywords": ["criminal intimidation", "threat", "alarm", "IPC 506 equivalent"]
+      }
+    ]
+  },
+  {
+    "act_id": "BNSS_2023",
+    "act_title": "Bharatiya Nagarik Suraksha Sanhita, 2023 (Act No. 46 of 2023)",
+    "year": 2023,
+    "jurisdiction": "India",
+    "status": "In Force since 1 July 2024",
+    "effective_date": "2024-07-01",
+    "replaced_statute": "Code of Criminal Procedure, 1973 (CrPC)",
+    "sections": [
+      {
+        "section_number": "173",
+        "title": "Information in cognizable cases / FIR (Equivalent to CrPC 154)",
+        "text": "Every information relating to the commission of a cognizable offence, if given orally to an officer in charge of a police station, shall be reduced to writing. Information may also be given electronically (e-FIR), subject to signature within three days.",
+        "keywords": ["FIR", "first information report", "e-FIR", "cognizable offence", "CrPC 154 equivalent"]
+      },
+      {
+        "section_number": "175",
+        "title": "Magistrate's power to order investigation (Equivalent to CrPC 156(3))",
+        "text": "Any Magistrate empowered under section 210 may order such an investigation as above-mentioned upon an application supported by an affidavit.",
+        "keywords": ["Magistrate investigation", "application", "affidavit", "CrPC 156(3) equivalent"]
+      },
+      {
+        "section_number": "482",
+        "title": "Direction for grant of bail to person apprehending arrest / Anticipatory Bail (Equivalent to CrPC 438)",
+        "text": "Where any person has reason to believe that he may be arrested on an accusation of having committed a non-bailable offence, he may apply to the High Court or the Court of Session for a direction under this section; and that Court may, if it thinks fit, direct that in the event of such arrest, he shall be released on bail.",
+        "keywords": ["anticipatory bail", "pre-arrest bail", "non-bailable offence", "CrPC 438 equivalent"]
+      },
+      {
+        "section_number": "528",
+        "title": "Saving of inherent powers of High Court (Equivalent to CrPC 482)",
+        "text": "Nothing in this Sanhita shall be deemed to limit or affect the inherent powers of the High Court to make such orders as may be necessary to give effect to any order under this Sanhita, or to prevent abuse of the process of any Court or otherwise to secure the ends of justice.",
+        "keywords": ["inherent powers", "quashing of FIR", "abuse of process", "CrPC 482 equivalent"]
+      }
+    ]
+  },
+  {
+    "act_id": "BSA_2023",
+    "act_title": "Bharatiya Sakshya Adhiniyam, 2023 (Act No. 47 of 2023)",
+    "year": 2023,
+    "jurisdiction": "India",
+    "status": "In Force since 1 July 2024",
+    "effective_date": "2024-07-01",
+    "replaced_statute": "Indian Evidence Act, 1872 (IEA)",
+    "sections": [
+      {
+        "section_number": "61",
+        "title": "Admissibility of electronic records (Equivalent to IEA 65A)",
+        "text": "Nothing in this Adhiniyam shall apply to electronic records except in accordance with the provisions of section 63.",
+        "keywords": ["electronic evidence", "digital records", "IEA 65A equivalent"]
+      },
+      {
+        "section_number": "63",
+        "title": "Admissibility of electronic records and certificate requirement (Equivalent to IEA 65B)",
+        "text": "Any information contained in an electronic record which is printed on a paper, stored, recorded or copied in optical or magnetic media shall be deemed to be also a document and shall be admissible in any proceedings, without further proof, if the conditions specified in this section are satisfied. An electronic certificate under the Schedule must accompany the electronic evidence.",
+        "keywords": ["electronic evidence certificate", "Section 65B certificate equivalent", "digital forensics", "admissibility"]
+      }
+    ]
+  },
+  {
+    "act_id": "IT_ACT_2000",
+    "act_title": "Information Technology Act, 2000",
+    "year": 2000,
+    "jurisdiction": "India",
+    "status": "In Force",
+    "sections": [
+      {
+        "section_number": "43A",
+        "title": "Compensation for failure to protect data",
+        "text": "Where a body corporate, possessing, dealing or handling any sensitive personal data or information in a computer resource which it owns, controls or operates, is negligent in implementing and maintaining reasonable security practices and procedures and thereby causes wrongful loss or wrongful gain to any person, such body corporate shall be liable to pay damages by way of compensation to the person so affected.",
+        "keywords": ["data protection", "sensitive personal data", "negligence", "reasonable security practices", "compensation"]
+      },
+      {
+        "section_number": "72A",
+        "title": "Punishment for disclosure of information in breach of lawful contract",
+        "text": "Save as otherwise provided in this Act or any other law for the time being in force, any person including an intermediary who, while providing services under the terms of lawful contract, has secured access to any material containing personal information about another person, with the intent to cause or knowing that he is likely to cause wrongful loss or wrongful gain discloses, without the consent of the person concerned, or in breach of a lawful contract, such material, shall be punished with imprisonment for a term which may extend to three years, or with fine which may extend to five lakh rupees, or with both.",
+        "keywords": ["breach of confidentiality", "data leak", "unauthorized disclosure", "breach of contract"]
+      }
+    ]
+  },
+  {
+    "act_id": "CPA_2019",
+    "act_title": "Consumer Protection Act, 2019",
+    "year": 2019,
+    "jurisdiction": "India",
+    "status": "In Force",
+    "sections": [
+      {
+        "section_number": "2(47)",
+        "title": "Unfair trade practice",
+        "text": "Unfair trade practice means a trade practice which, for the purpose of promoting the sale, use or supply of any goods or for the provision of any service, adopts any unfair method or unfair or deceptive practice.",
+        "keywords": ["unfair trade practice", "misleading advertisement", "consumer rights"]
+      },
+      {
+        "section_number": "84",
+        "title": "Liability of product manufacturer",
+        "text": "A product manufacturer shall be liable in a product liability action, if the product contains a manufacturing defect, or is defective in design, or there is a deviation from manufacturing specifications, or the product does not conform to the express warranty.",
+        "keywords": ["product liability", "manufacturer liability", "defective goods"]
+      }
+    ]
+  },
+  {
+    "act_id": "ARB_1996",
+    "act_title": "Arbitration and Conciliation Act, 1996",
+    "year": 1996,
+    "jurisdiction": "India",
+    "status": "In Force",
+    "sections": [
+      {
+        "section_number": "7",
+        "title": "Arbitration agreement",
+        "text": "An arbitration agreement means an agreement by the parties to submit to arbitration all or certain disputes which have arisen or which may arise between them in respect of a defined legal relationship, whether contractual or not. An arbitration agreement shall be in writing.",
+        "keywords": ["arbitration clause", "written agreement", "dispute resolution"]
+      },
+      {
+        "section_number": "8",
+        "title": "Power to refer parties to arbitration where there is an arbitration agreement",
+        "text": "A judicial authority, before which an action is brought in a matter which is the subject of an arbitration agreement shall, if a party to the arbitration agreement or any person claiming through or under him so applies not later than the date of submitting his first statement on the substance of the dispute, refer the parties to arbitration unless it finds that prima facie no valid arbitration agreement exists.",
+        "keywords": ["reference to arbitration", "stay of legal proceedings", "arbitration clause enforcement"]
+      },
+      {
+        "section_number": "9",
+        "title": "Interim measures, etc., by Court",
+        "text": "A party may, before or during arbitral proceedings or at any time after the making of the arbitral award but before it is enforced in accordance with section 36, apply to a court for interim measures of protection.",
+        "keywords": ["interim injunction", "interim protection", "preservation of assets"]
+      }
+    ]
+  },
+  {
+    "act_id": "CONST_INDIA",
+    "act_title": "The Constitution of India",
+    "year": 1950,
+    "jurisdiction": "India",
+    "status": "In Force",
+    "sections": [
+      {
+        "section_number": "Article 14",
+        "title": "Equality before law",
+        "text": "The State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India.",
+        "keywords": ["equality", "arbitrariness", "rule of law", "fundamental rights"]
+      },
+      {
+        "section_number": "Article 19(1)(g)",
+        "title": "Right to practice any profession, or to carry on any occupation, trade or business",
+        "text": "All citizens shall have the right to practise any profession, or to carry on any occupation, trade or business, subject to reasonable restrictions under clause (6).",
+        "keywords": ["freedom of trade", "profession", "business", "reasonable restrictions"]
+      },
+      {
+        "section_number": "Article 21",
+        "title": "Protection of life and personal liberty",
+        "text": "No person shall be deprived of his life or personal liberty except according to procedure established by law.",
+        "keywords": ["personal liberty", "due process", "privacy", "fair trial"]
+      },
+      {
+        "section_number": "Article 226",
+        "title": "Power of High Courts to issue certain writs",
+        "text": "Notwithstanding anything in Article 32, every High Court shall have powers, throughout the territories in relation to which it exercise jurisdiction, to issue to any person or authority directions, orders or writs, including writs in the nature of habeas corpus, mandamus, prohibition, quo warranto and certiorari, for the enforcement of any of the rights conferred by Part III and for any other purpose.",
+        "keywords": ["writ jurisdiction", "High Court", "mandamus", "certiorari", "fundamental rights enforcement"]
+      }
+    ]
+  }
+]

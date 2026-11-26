@@ -1,0 +1,128 @@
+[
+  {
+    "case_id": "PERCEPT_DMARK_2006",
+    "case_title": "Percept D'Mark (India) (P) Ltd. v. Zaheer Khan & Anr.",
+    "citation": "(2006) 4 SCC 227",
+    "alternate_citations": ["AIR 2006 SC 3426", "2006 INSC 176"],
+    "court": "Supreme Court of India",
+    "year": 2006,
+    "bench": "Y.K. Sabharwal, C.J., & C.K. Thakker, J.",
+    "statutes_involved": ["Indian Contract Act, 1872 - Section 27", "Specific Relief Act, 1963 - Section 42"],
+    "keywords": ["non-compete", "restraint of trade", "post-contractual restriction", "negative covenant", "Section 27"],
+    "facts": "Percept entered into an agreement to manage the promotions and media affairs of cricketer Zaheer Khan. Clause 31(b) gave Percept a right of first refusal and provided that Zaheer Khan could not accept third-party offers without offering Percept identical terms even after the contract expired.",
+    "ratio_decidendi": "Under Section 27 of the Indian Contract Act, 1872, a restrictive covenant extending beyond the term of the agreement is void and unenforceable. The doctrine of restraint of trade in India applies strictly, and the test of reasonableness prevalent in English common law does not apply to post-employment or post-contractual covenants under Indian law.",
+    "key_passages": [
+      "Under Section 27 of the Contract Act, a restrictive covenant extending beyond the term of the agreement is void and not enforceable. The doctrine of restraint of trade does not apply during the continuance of the contract for employment and it applies only when the contract comes to an end.",
+      "The legal position with regard to post-contractual negative covenants is well settled by a catena of decisions of this Court. A condition in a contract which restrains an employee from carrying on business or taking up employment after the termination of his contract of service is void under Section 27."
+    ],
+    "outcome": "Injunction refused. Negative covenant operating post-expiration of the contract held void under Section 27."
+  },
+  {
+    "case_id": "SUPERINTENDENCE_1980",
+    "case_title": "Superintendence Company of India (P) Ltd. v. Krishan Murgai",
+    "citation": "(1981) 2 SCC 246",
+    "alternate_citations": ["AIR 1980 SC 1717", "1980 INSC 96"],
+    "court": "Supreme Court of India",
+    "year": 1980,
+    "bench": "V.D. Tulzapurkar & A.P. Sen, JJ.",
+    "statutes_involved": ["Indian Contract Act, 1872 - Section 27"],
+    "keywords": ["post-service restrictive covenant", "restraint of trade", "master and servant", "Section 27"],
+    "facts": "Krishan Murgai was employed by Superintendence Co. as head of the New Delhi division. Clause 10 restrained him from engaging in any similar business or serving any other competitive firm in New Delhi for two years post-cessation of service.",
+    "ratio_decidendi": "A negative covenant operating post-employment restricting the employee from engaging in business or employment is wholly void under Section 27. Section 27 enacts a strict statutory prohibition not admitting exceptions other than the sale of goodwill.",
+    "key_passages": [
+      "A contract in restraint of trade is one by which a party restricts his future liberty to carry on his trade, business or profession in such manner and with such persons as he chooses. All restraints of trade, in the absence of special justifying circumstances, are contrary to public policy and void.",
+      "Under Section 27 of the Indian Contract Act, 1872, unlike the English law, all contracts in restraint of trade are void, whether total or partial, general or qualified, with the sole exception of sale of goodwill."
+    ],
+    "outcome": "Appeal dismissed. Post-termination restraint held void ab initio."
+  },
+  {
+    "case_id": "KAILASH_NATH_2015",
+    "case_title": "Kailash Nath Associates v. Delhi Development Authority & Anr.",
+    "citation": "(2015) 4 SCC 136",
+    "alternate_citations": ["2015 INSC 22", "AIR 2015 SC 1092"],
+    "court": "Supreme Court of India",
+    "year": 2015,
+    "bench": "Ranjan Gogoi & R.F. Nariman, JJ.",
+    "statutes_involved": ["Indian Contract Act, 1872 - Section 73", "Indian Contract Act, 1872 - Section 74"],
+    "keywords": ["liquidated damages", "penalty", "forfeiture of earnest money", "proof of actual loss", "Section 74"],
+    "facts": "Kailash Nath was the highest bidder in a DDA public auction and paid 25% earnest money. Due to DDA's delay in obtaining permissions, payment of the balance was delayed. DDA forfeited the entire earnest money deposit under an alleged liquidated damages clause.",
+    "ratio_decidendi": "Compensation under Section 74 of the Indian Contract Act can only be awarded when damage or loss is actually proved to have been suffered. Where loss is capable of proof, the party alleging breach must prove actual loss; forfeiture of a stipulated sum as liquidated damages without proof of loss is an impermissible penalty.",
+    "key_passages": [
+      "Where it is possible to prove actual damage or loss, such proof is not dispensed with. It is only in cases where damage or loss is difficult or impossible to prove that the liquidated amount stipulated can be awarded as reasonable compensation.",
+      "Section 74 will apply to cases of forfeiture of earnest money only where damage has been suffered. If no loss has been suffered by the claimant, forfeiture of the earnest money or deposit would be arbitrary and penal."
+    ],
+    "outcome": "DDA directed to refund the earnest money with 9% interest as DDA suffered no loss (the land was subsequently re-auctioned for a higher price)."
+  },
+  {
+    "case_id": "ONGC_SAW_PIPES_2003",
+    "case_title": "Oil & Natural Gas Corporation Ltd. v. Saw Pipes Ltd.",
+    "citation": "(2003) 5 SCC 705",
+    "alternate_citations": ["AIR 2003 SC 2629", "2003 INSC 239"],
+    "court": "Supreme Court of India",
+    "year": 2003,
+    "bench": "M.B. Shah & Arun Kumar, JJ.",
+    "statutes_involved": ["Indian Contract Act, 1872 - Section 73 & 74", "Arbitration and Conciliation Act, 1996 - Section 34"],
+    "keywords": ["liquidated damages", "genuine pre-estimate of loss", "breach of contract", "public policy"],
+    "facts": "Saw Pipes delayed delivery of casing pipes to ONGC due to a general strike of steel workers in Europe. ONGC deducted liquidated damages as per contract. The arbitral tribunal held the deduction illegal for want of proof of loss.",
+    "ratio_decidendi": "When the terms of the contract are clear and unambiguous stipulating liquidated damages as a genuine pre-estimate of loss, and the loss caused by delay is impossible or difficult to quantify in money, the court/arbitrator must award the agreed liquidated damages without insisting on strict arithmetic proof of actual loss.",
+    "key_passages": [
+      "If the parties knew when they made the contract that a particular breach is likely to result in loss and agreed on a genuine pre-estimate of damages, the party complaining of the breach is entitled to receive reasonable compensation not exceeding the amount so named.",
+      "In a contract for construction of heavy industrial projects or supply of critical equipment where delay affects public welfare, proving exact quantification of losses is virtually impossible, and liquidated damages must be enforced unless proved to be exorbitant or a penalty."
+    ],
+    "outcome": "Arbitral award set aside; deduction of agreed liquidated damages upheld as genuine pre-estimate."
+  },
+  {
+    "case_id": "ARJUN_KHOTKAR_2020",
+    "case_title": "Arjun Panditrao Khotkar v. Kailash Kushanrao Gorantyal & Ors.",
+    "citation": "(2020) 7 SCC 1",
+    "alternate_citations": ["2020 INSC 452", "AIR 2020 SC 4917"],
+    "court": "Supreme Court of India",
+    "year": 2020,
+    "bench": "R.F. Nariman, S. Ravindra Bhat & V. Ramasubramanian, JJ.",
+    "statutes_involved": ["Indian Evidence Act, 1872 - Section 65B (Now BSA 2023 - Section 63)"],
+    "keywords": ["electronic evidence", "Section 65B certificate", "BSA Section 63", "digital records", "admissibility"],
+    "facts": "In an election petition challenging an election to Maharashtra Legislative Assembly, video recordings from Election Commission cameras and CDs were produced without a Section 65B certificate.",
+    "ratio_decidendi": "A certificate under Section 65B(4) is a mandatory condition precedent to the admissibility of electronic records by way of secondary evidence. If the primary electronic device itself is produced by the owner, no certificate is required; but whenever secondary electronic output (printouts, copies, CD, USB) is tendered, a 65B certificate is strictly mandatory.",
+    "key_passages": [
+      "The certificate required under Section 65B(4) is a condition precedent to the admissibility of evidence by way of electronic record.",
+      "Oral evidence cannot take the place of the certificate under Section 65B(4), which is mandatory to eliminate the possibility of tampering or fabrication of electronic records."
+    ],
+    "outcome": "Section 65B certificate mandatory for electronic records; High Court orders clarified."
+  },
+  {
+    "case_id": "PUTTASWAMY_2017",
+    "case_title": "Justice K.S. Puttaswamy (Retd.) & Anr. v. Union of India & Ors.",
+    "citation": "(2017) 10 SCC 1",
+    "alternate_citations": ["AIR 2017 SC 4161", "2017 INSC 777"],
+    "court": "Supreme Court of India (9-Judge Constitution Bench)",
+    "year": 2017,
+    "bench": "J.S. Khehar, C.J., J. Chelameswar, S.A. Bobde, R.K. Agrawal, R.F. Nariman, A.M. Sapre, D.Y. Chandrachud, S.K. Kaul & S. Abdul Nazeer, JJ.",
+    "statutes_involved": ["Constitution of India - Article 21, Part III", "Information Technology Act, 2000"],
+    "keywords": ["right to privacy", "fundamental right", "Article 21", "data privacy", "informational privacy"],
+    "facts": "Challenge to the constitutional validity of the Aadhaar card scheme on the ground that collecting biometric and personal data without a robust statutory framework violated citizens' privacy.",
+    "ratio_decidendi": "The right to privacy is a protected fundamental right that emanates from the guarantee of life and personal liberty under Article 21 and the freedoms guaranteed by Part III of the Constitution. Informational privacy and data protection are fundamental dimensions of personal autonomy.",
+    "key_passages": [
+      "Privacy is the constitutional core of human dignity. The right to privacy is protected as an intrinsic part of the right to life and personal liberty under Article 21 and as a part of the freedoms guaranteed by Part III of the Constitution.",
+      "Informational privacy is a facet of the right to privacy. The growth and development of technology has posed serious challenges to privacy, requiring legal safeguards against unauthorized commercial and state surveillance."
+    ],
+    "outcome": "Unanimously affirmed privacy as a fundamental right under Article 21."
+  },
+  {
+    "case_id": "VIDYA_DROLIA_2021",
+    "case_title": "Vidya Drolia & Ors. v. Durga Trading Corporation",
+    "citation": "(2021) 2 SCC 1",
+    "alternate_citations": ["2020 INSC 697", "AIR 2021 SC 79"],
+    "court": "Supreme Court of India",
+    "year": 2021,
+    "bench": "N.V. Ramana, Sanjiv Khanna & Krishna Murari, JJ.",
+    "statutes_involved": ["Arbitration and Conciliation Act, 1996 - Section 8 & 11", "Transfer of Property Act, 1882"],
+    "keywords": ["arbitrability", "landlord tenant disputes", "Section 8", "four-fold test of non-arbitrability"],
+    "facts": "Reference regarding whether tenancy disputes governed by the Transfer of Property Act are arbitrable when the lease deed contains an arbitration clause.",
+    "ratio_decidendi": "Formulated a four-fold test to determine non-arbitrability of disputes: (1) When action is in rem; (2) Erga omnes effect; (3) Subordinate rights to sovereign state functions; (4) Express statutory prohibition. Landlord-tenant disputes under the Transfer of Property Act are arbitrable unless governed by special rent control statutes.",
+    "key_passages": [
+      "Landlord-tenant disputes governed by the Transfer of Property Act, 1882 are arbitrable as they pertain to subordinate rights in personam arising from rights in rem.",
+      "The court at the referral stage under Section 8 or 11 has limited review, only examining whether an arbitration agreement exists prima facie."
+    ],
+    "outcome": "Landlord-tenant disputes held arbitrable under the general law of property."
+  }
+]

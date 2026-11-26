@@ -1,0 +1,21 @@
+MASTER SERVICES AGREEMENT AND DISPUTE BRIEF
+
+CASE REFERENCE: INFONET GLOBAL SERVICES v. APEX TELECOM INDIA LIMITED
+
+FACTS OF THE DISPUTE:
+1. On 10th August 2023, Infonet Global Services LLP ("Contractor") and Apex Telecom India Limited ("Client") entered into a Master Software Development Agreement for building an automated 5G network billing infrastructure.
+2. The total contract value was fixed at INR 4,50,00,000/- (Rupees Four Crores Fifty Lakhs). The delivery deadline was stipulated as 30th April 2024.
+3. Clause 9 of the agreement provided that in the event of delay in milestone deliveries, the Client was entitled to deduct liquidated damages at the rate of 1.5% per week of delay, up to a maximum cap of 15% of the total contract value (INR 67,50,000/-).
+4. Due to repeated scope changes and delays by the Client in providing API credentials and test network sandboxes, the final deployment was completed on 15th July 2024 (11 weeks delayed).
+5. The Client, invoking Clause 9, unilaterally withheld INR 67,50,000/- from the final milestone payment, asserting that the delay caused loss of subscriber billing readiness.
+6. The Contractor contends that:
+   (a) The delay was entirely attributable to the Client's defaults (prevention doctrine);
+   (b) The Client did not suffer any actual loss because commercial 5G spectrum was not yet operational during the delay period (relying on Kailash Nath Associates v. DDA);
+   (c) The communication records consist of Slack logs and WhatsApp discussions showing the Client acknowledged delay in sandbox provisioning.
+7. Crucially, the Client alleges that WhatsApp communications relied upon by the Contractor cannot be admitted into evidence without a mandatory electronic certificate under Section 63 of Bharatiya Sakshya Adhiniyam, 2023 (or Section 65B of Indian Evidence Act, 1872), citing Arjun Panditrao Khotkar v. Kailash Kushanrao Gorantyal (2020) 7 SCC 1.
+8. The agreement contains an arbitration clause providing for sole arbitrator appointed by mutual consent under the Arbitration and Conciliation Act, 1996, with seat and venue at New Delhi.
+
+LEGAL ISSUES TO BE DETERMINED:
+Issue 1: Whether the deduction of maximum liquidated damages of INR 67,50,000/- without proof of actual financial loss is permissible under Section 74 of the Indian Contract Act, 1872, or whether it operates as an invalid penalty under Kailash Nath Associates v. DDA.
+Issue 2: Whether electronic correspondence (WhatsApp messages and Slack logs) is admissible before an arbitral tribunal without a formal electronic certificate under BSA Section 63 / IEA Section 65B.
+Issue 3: Whether the dispute should be referred to arbitration under Section 8 of the Arbitration and Conciliation Act, 1996.
